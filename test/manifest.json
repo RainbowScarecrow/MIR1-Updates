@@ -1,0 +1,331 @@
+﻿{
+    "version":  "0.6.6",
+    "notes":  "Первый тест обновления МИР-1 через GitHub",
+    "minimum_updater_version":  "1.0.0",
+    "files":  [
+                  {
+                      "path":  "D3Dcompiler_47.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/D3Dcompiler_47.dll",
+                      "sha256":  "e994847e01a6f1e4cbdc5a864616ac262f67ee4f14db194984661a8d927ab7f4",
+                      "size":  4173928
+                  },
+                  {
+                      "path":  "generic/qtuiotouchplugin.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/generic/qtuiotouchplugin.dll",
+                      "sha256":  "cd92b5f386ce446100decc50701fccdf6db7f0a4d00b3fcc9425844c4aac692d",
+                      "size":  95936
+                  },
+                  {
+                      "path":  "iconengines/qsvgicon.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/iconengines/qsvgicon.dll",
+                      "sha256":  "2b0510e8714e2396d036508f845a5af3d0c8d064f3e466e04bfca67ff287561b",
+                      "size":  68800
+                  },
+                  {
+                      "path":  "imageformats/qgif.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/imageformats/qgif.dll",
+                      "sha256":  "3bfe70bdbd4080098e27790c2ab7a28d479eaceaae4eb674c79da8514c8e90dc",
+                      "size":  48320
+                  },
+                  {
+                      "path":  "imageformats/qico.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/imageformats/qico.dll",
+                      "sha256":  "dd8109741808666d94cb9bb5812d512fa7585bd95fd051b37aad8155edacecfc",
+                      "size":  48320
+                  },
+                  {
+                      "path":  "imageformats/qjpeg.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/imageformats/qjpeg.dll",
+                      "sha256":  "ad609af42de95c47484ce40d811b77472abb28bf209f6f6ee4eedcf8cc15a03c",
+                      "size":  545984
+                  },
+                  {
+                      "path":  "imageformats/qsvg.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/imageformats/qsvg.dll",
+                      "sha256":  "67f0a7f5a692c68af69596d3d442e1d2b964b6612d65e4f7010839dc3b73f971",
+                      "size":  39616
+                  },
+                  {
+                      "path":  "libgcc_s_seh-1.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/libgcc_s_seh-1.dll",
+                      "sha256":  "8660371ef7b69772138ef71f9077ae5c742b4a9b768ccca59263d20e8dec1815",
+                      "size":  75264
+                  },
+                  {
+                      "path":  "libstdc++-6.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/libstdc%2B%2B-6.dll",
+                      "sha256":  "715612765ea5b513c497958111e2fb4101a69198568b1226e7a4b5f9c6b3df35",
+                      "size":  1957376
+                  },
+                  {
+                      "path":  "libwinpthread-1.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/libwinpthread-1.dll",
+                      "sha256":  "48a1d7fb4f81671babb514a801946f49b7c4efc54aafe7caa81f9a582ac30690",
+                      "size":  53248
+                  },
+                  {
+                      "path":  "MIR1.exe",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/MIR1.exe",
+                      "sha256":  "fd5c8850ff12f5141d14df7e7c54c51de87f8499f0bd580939763f58cd454780",
+                      "size":  2051122
+                  },
+                  {
+                      "path":  "MIR1Updater.exe",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/MIR1Updater.exe",
+                      "sha256":  "4a8594cc5ed6c65a3102e78371b95cbcb5b46e3ccbe5c6947c31c948354ff45b",
+                      "size":  89100
+                  },
+                  {
+                      "path":  "networkinformation/qnetworklistmanager.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/networkinformation/qnetworklistmanager.dll",
+                      "sha256":  "84c6cd6baa9fcd7b43967a62c920a0479cdcb4ae9b9b25a58e78f06e632562a9",
+                      "size":  89280
+                  },
+                  {
+                      "path":  "opengl32sw.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/opengl32sw.dll",
+                      "sha256":  "b04de4541863bc7d8879040a78889c4849c1b1da2784c4630f734c146c2998ce",
+                      "size":  20639888
+                  },
+                  {
+                      "path":  "platforms/qwindows.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/platforms/qwindows.dll",
+                      "sha256":  "c5821a5fe2868001d7e63eb481d79915fb255fff04d56e524fbd48690a477882",
+                      "size":  1053376
+                  },
+                  {
+                      "path":  "Qt6Core.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/Qt6Core.dll",
+                      "sha256":  "c2e9a343d65956d8e6112cfffb4d80f985d3e7ef2449bd74198bcc3c356cb94d",
+                      "size":  6811320
+                  },
+                  {
+                      "path":  "Qt6Gui.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/Qt6Gui.dll",
+                      "sha256":  "aab7dcb080d47fa373198dc6be2fbbe370be449e35f811df3165040e7d81f923",
+                      "size":  10238640
+                  },
+                  {
+                      "path":  "Qt6Network.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/Qt6Network.dll",
+                      "sha256":  "817c49cce1a15b4f93e9208fc0d6c28cfb83232689321a56ae1eac56a32572f8",
+                      "size":  1836720
+                  },
+                  {
+                      "path":  "Qt6Svg.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/Qt6Svg.dll",
+                      "sha256":  "c09bed863665b4cbc0220036a6a12d4b392900a23996fe4e57aa23b2b34bffd0",
+                      "size":  484528
+                  },
+                  {
+                      "path":  "Qt6Widgets.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/Qt6Widgets.dll",
+                      "sha256":  "77909782a56ea630540fd87954e6343468016750e5e7e003367e4059c7427409",
+                      "size":  6735024
+                  },
+                  {
+                      "path":  "styles/qmodernwindowsstyle.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/styles/qmodernwindowsstyle.dll",
+                      "sha256":  "c2c4bff9eb22955988bfc3c53b17870f2727fc2b4b26f64d15ef8846bd327580",
+                      "size":  232128
+                  },
+                  {
+                      "path":  "tls/qcertonlybackend.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/tls/qcertonlybackend.dll",
+                      "sha256":  "5c21583567cbe042cc88fc0c2ae0c5007a8a5322b580339bb6045977b1686124",
+                      "size":  102080
+                  },
+                  {
+                      "path":  "tls/qopensslbackend.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/tls/qopensslbackend.dll",
+                      "sha256":  "8df5dfcb08b7464e2eb22aba16d06026ed5dc89b6cba9254664ae18f045f02cf",
+                      "size":  336064
+                  },
+                  {
+                      "path":  "tls/qschannelbackend.dll",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/tls/qschannelbackend.dll",
+                      "sha256":  "ecefe081e45cb4c588c8fcccc7837082b7fcaeb4a0062b86fe61ceea96b5d30e",
+                      "size":  256192
+                  },
+                  {
+                      "path":  "translations/qt_ar.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_ar.qm",
+                      "sha256":  "e03fe68d83201543698fd7fe267dd5dfc5bfd195147e74ff2f19ac3491401263",
+                      "size":  160017
+                  },
+                  {
+                      "path":  "translations/qt_bg.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_bg.qm",
+                      "sha256":  "e448ac9e3f16c29eb27af3012efe21052daa78fabfb34cd6dff2f69ee3bd3cdb",
+                      "size":  165337
+                  },
+                  {
+                      "path":  "translations/qt_ca.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_ca.qm",
+                      "sha256":  "57d1a5a4f6eb0502e8792b9f06e23994d497a04670be147ad53b7890e1e36457",
+                      "size":  209866
+                  },
+                  {
+                      "path":  "translations/qt_cs.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_cs.qm",
+                      "sha256":  "03028b42df5479270371e4c3bdc7df2f56cbbe6dda956a2864ac6f6415861fe8",
+                      "size":  174701
+                  },
+                  {
+                      "path":  "translations/qt_da.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_da.qm",
+                      "sha256":  "7d1e5ca3310b54d104c19bf2abd402b38e584e87039a70e153c4a9af74b25c22",
+                      "size":  181387
+                  },
+                  {
+                      "path":  "translations/qt_de.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_de.qm",
+                      "sha256":  "8e6c0b5a773e36d60942795e8971d729439d77a8613ec466fc24d0f73a2ce663",
+                      "size":  219567
+                  },
+                  {
+                      "path":  "translations/qt_en.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_en.qm",
+                      "sha256":  "494ac9a2b2cb2fdeced353f4a9f898ed8dcf616e9bc667438c62681e3f7f79cf",
+                      "size":  33
+                  },
+                  {
+                      "path":  "translations/qt_es.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_es.qm",
+                      "sha256":  "4ffda56ba3bb5414ab0482d1dde64a6f226e3488f6b7f3f11a150e01f53fa4c8",
+                      "size":  165170
+                  },
+                  {
+                      "path":  "translations/qt_fa.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_fa.qm",
+                      "sha256":  "f78e59b5bdd586181a999034ba418868ed17fe9c05707fb65e523f70e92253d2",
+                      "size":  148156
+                  },
+                  {
+                      "path":  "translations/qt_fi.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_fi.qm",
+                      "sha256":  "e47fe13713e184d07fa4495dde0c589b0e8f562e91574a3558a9363443a4fa72",
+                      "size":  179941
+                  },
+                  {
+                      "path":  "translations/qt_fr.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_fr.qm",
+                      "sha256":  "ea7ab2b4e927b8e95949397d10db73c2e42773bb9b66e1e08a23e247e7ebbfd4",
+                      "size":  159430
+                  },
+                  {
+                      "path":  "translations/qt_gd.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_gd.qm",
+                      "sha256":  "63b439dd44139aa3aed54c2ebe03fa9bc77f22c14ed8fba8eff2608445bb233d",
+                      "size":  189580
+                  },
+                  {
+                      "path":  "translations/qt_he.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_he.qm",
+                      "sha256":  "e1ebca16afe8994356f81ca007fbdb9ddf865842010fe908923d873b687cad3f",
+                      "size":  138690
+                  },
+                  {
+                      "path":  "translations/qt_hr.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_hr.qm",
+                      "sha256":  "bb9eec9a9a652c1340dc75eb2e749be50df00f885b3d6900dfc76799c45b244d",
+                      "size":  149711
+                  },
+                  {
+                      "path":  "translations/qt_hu.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_hu.qm",
+                      "sha256":  "6cf10d2b00cf6910e9d04a814684fe0213c395650baabfa04fd6adf49c00a16b",
+                      "size":  203396
+                  },
+                  {
+                      "path":  "translations/qt_it.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_it.qm",
+                      "sha256":  "eddce0a4677b28c100d880bacd333846ce872b12ea9ff97384e4e21b658b3e93",
+                      "size":  161133
+                  },
+                  {
+                      "path":  "translations/qt_ja.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_ja.qm",
+                      "sha256":  "2b9581c69b975f59be505b127cd3c19d403ef3d12e0e8386fb97238223e9c1df",
+                      "size":  129913
+                  },
+                  {
+                      "path":  "translations/qt_ka.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_ka.qm",
+                      "sha256":  "e55e4b72fa620bebee5297ca59dfe2f49894a1e544f2b7485b1cfd8829289d6f",
+                      "size":  201105
+                  },
+                  {
+                      "path":  "translations/qt_ko.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_ko.qm",
+                      "sha256":  "0179ed1b136e1cb3f583351eaa2c545ba3d83a6ee3f82c32505926a1a5f5f183",
+                      "size":  156799
+                  },
+                  {
+                      "path":  "translations/qt_lv.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_lv.qm",
+                      "sha256":  "846e047573ae40c83671c3ba7f73e27efc24b98c82701da0df9973e574178bb2",
+                      "size":  153608
+                  },
+                  {
+                      "path":  "translations/qt_nl.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_nl.qm",
+                      "sha256":  "f61513bcdbb6ad800585f9437a95d018aab17fa12ee414aa31462ff279d8240e",
+                      "size":  202861
+                  },
+                  {
+                      "path":  "translations/qt_nn.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_nn.qm",
+                      "sha256":  "983734b40aa4d250421ba0d1614416cb8b424d6f140f4a7dbf8b11e65eef63dc",
+                      "size":  196424
+                  },
+                  {
+                      "path":  "translations/qt_pl.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_pl.qm",
+                      "sha256":  "3cf6b5c14d5eb0cf81e9af2066e66b3aa579a6b9b3c323ed670761f6254a8c54",
+                      "size":  162962
+                  },
+                  {
+                      "path":  "translations/qt_pt_BR.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_pt_BR.qm",
+                      "sha256":  "8344f5bc333c45d37cfd425a09124eb11f12439f33737ec0b8683d04a416746e",
+                      "size":  208516
+                  },
+                  {
+                      "path":  "translations/qt_ru.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_ru.qm",
+                      "sha256":  "3da6605668f9178d11a838c4515478084dcfb4f9cf22f99d7a92b492db9c224b",
+                      "size":  203767
+                  },
+                  {
+                      "path":  "translations/qt_sk.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_sk.qm",
+                      "sha256":  "d586ae2c314074cf398417fdecb40709d5478dfeb0a67c2fe60d509ee9b59ed7",
+                      "size":  125763
+                  },
+                  {
+                      "path":  "translations/qt_tr.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_tr.qm",
+                      "sha256":  "4013c3340dab7ae2ae594bfb779a15d9e65c8ee3e7b34e11074ef9295250de02",
+                      "size":  190755
+                  },
+                  {
+                      "path":  "translations/qt_uk.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_uk.qm",
+                      "sha256":  "4835b26fc4fccbf4444e4af1178ba89ada88d340ba74d61eae344d81b8a26461",
+                      "size":  158241
+                  },
+                  {
+                      "path":  "translations/qt_zh_CN.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_zh_CN.qm",
+                      "sha256":  "98fd4b97dbec8af5cdd15f85a16c33efc77301b1aeb0469daafc04b9ab2f3570",
+                      "size":  136673
+                  },
+                  {
+                      "path":  "translations/qt_zh_TW.qm",
+                      "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/translations/qt_zh_TW.qm",
+                      "sha256":  "21012b2b427f8d09d31ce9cae582ca27955b478ca3dc2ec18a3068d808638c6a",
+                      "size":  126185
+                  }
+              ]
+}
