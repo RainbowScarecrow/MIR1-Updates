@@ -1,0 +1,12 @@
+﻿{
+    "version":  "0.6.6",
+    "channel":  "stable",
+    "notes":  "MIR1 0.6.6 stable candidate",
+    "minimum_updater_version":  "1.0.0",
+    "package":  {
+                    "path":  "MIR1-0.6.6.zip",
+                    "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/stable/MIR1-0.6.6.zip",
+                    "sha256":  "9a66239981994cf8c8b0bef7ea0177b422d52c0669f3d56d54cbdb7798502549",
+                    "size":  24560454
+                }
+}
