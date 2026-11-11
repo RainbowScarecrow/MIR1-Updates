@@ -1,6 +1,6 @@
 ﻿{
     "version":  "0.6.6",
-    "notes":  "Первый тест обновления МИР-1 через GitHub",
+    "notes":  "Тест GitHub updater с retry и отображением текущего файла",
     "minimum_updater_version":  "1.0.0",
     "files":  [
                   {
@@ -66,13 +66,13 @@
                   {
                       "path":  "MIR1.exe",
                       "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/MIR1.exe",
-                      "sha256":  "fd5c8850ff12f5141d14df7e7c54c51de87f8499f0bd580939763f58cd454780",
-                      "size":  2051122
+                      "sha256":  "12feb01fb5e5466f42266222e68fe096bab28f8e464a50f0d73b9590ca70b338",
+                      "size":  2056390
                   },
                   {
                       "path":  "MIR1Updater.exe",
                       "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/files/MIR1Updater.exe",
-                      "sha256":  "4a8594cc5ed6c65a3102e78371b95cbcb5b46e3ccbe5c6947c31c948354ff45b",
+                      "sha256":  "179875d606f1496639e58f575d25d69dba3f17c7de0b065d78f59c51b2c99dc7",
                       "size":  89100
                   },
                   {
