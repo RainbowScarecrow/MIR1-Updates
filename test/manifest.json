@@ -1,13 +1,12 @@
 ﻿{
-    "version":  "0.6.7",
+    "version":  "0.6.8",
     "channel":  "test",
-    "notes":  "MIR1 0.6.7 — Advanced Stopwatch, safety fixes and updater validation",
+    "notes":  "MIR1 0.6.8 — Advanced Stopwatch and Harmonics",
     "minimum_updater_version":  "1.0.0",
     "package":  {
-                    "path":  "MIR1-0.6.7.zip",
-                    "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/MIR1-0.6.7.zip",
-                    "sha256":  "b7ebc741a0784148a932d6dfa2d4ab65e7cfca6474d8b38d94eedc36996adea4",
-                    "size":  24598252
+                    "path":  "MIR1-0.6.8.zip",
+                    "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/test/MIR1-0.6.8.zip",
+                    "sha256":  "e959ed09ec4c823d4b44dc721728268d5550a635728419ab968fcfa62139407b",
+                    "size":  24614635
                 }
 }
-
