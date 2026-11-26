@@ -9,4 +9,4 @@ Available channels:
 - stable: production updates
 
 Last prepared channel: test
-Last prepared version: 0.6.8
+Last prepared version: 0.6.9
