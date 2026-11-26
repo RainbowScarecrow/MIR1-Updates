@@ -1,12 +1,12 @@
 ﻿{
-    "version":  "0.6.8",
+    "version":  "0.6.9",
     "channel":  "stable",
-    "notes":  "MIR1 0.6.8 — Advanced Stopwatch and Harmonics",
+    "notes":  "MIR1 0.6.9 - Oscilloscope, COMTRADE, SIM acquisition, triggers and measurements",
     "minimum_updater_version":  "1.0.0",
     "package":  {
-                    "path":  "MIR1-0.6.8.zip",
-                    "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/stable/MIR1-0.6.8.zip",
-                    "sha256":  "e959ed09ec4c823d4b44dc721728268d5550a635728419ab968fcfa62139407b",
-                    "size":  24614635
+                    "path":  "MIR1-0.6.9.zip",
+                    "url":  "https://raw.githubusercontent.com/RainbowScarecrow/MIR1-Updates/main/stable/MIR1-0.6.9.zip",
+                    "sha256":  "71cbb9b038c3ee5cafbe2d092a59e352b2e00df029b016177aeeb90fbede1d86",
+                    "size":  24765255
                 }
 }
